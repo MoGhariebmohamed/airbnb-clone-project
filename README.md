@@ -99,3 +99,12 @@ user create reviewm\, updated reviews
 **authentication:** protecting user data Ensures that only legitimate users can access the application by verifying their identity—usually through login credentials or tokens
 **authorization:** Controls what actions authenticated users can perform, like differentiating between guests, hosts, and admins.
 **rate limiting:** Limits the number of requests a user or IP can make within a certain timeframe to prevent abuse
+
+# CI/CD Pipeline
+**CI/CD Pipelines:** Automated pipelines for testing and deploying code changes.
+Continuously test and validate code whenever changes are pushed to the repository.
+
+Automatically build and deploy the application to a development or production environment when updates are ready.
+**GitHub Actions:** To define workflows for running tests, linting code, and deploying the backend.
+
+**Docker:** To containerize the app, ensuring consistent environments across development and production.
