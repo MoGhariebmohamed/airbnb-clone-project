@@ -35,31 +35,32 @@ Implement and document key security measures to safeguard application data and e
 Gain insights into setting up automated development pipelines, boosting efficiency and minimizing errors during the deployment phase.
 
 # Team Roles
-**Business analyst (BA)**
+## **Business analyst (BA)**
 Understands customer’s business processes
 Translates customer business needs into requirements
-**Product owner (PO)**
+## **Product owner (PO)**
 Holds responsibility for a product vision and evolution
 Makes sure the final product meets customer requirements
-**Project manager (PM)**
+## **Project manager (PM)**
 Makes sure a product or its part is delivered on time and within budget
 Manages and motivates the software development team
-**UI/UX designer**
+## **UI/UX designer**
 Transforms a product vision into user-friendly designs
 Creates user journeys for the best user experience and highest conversion rates
-**Software architect**
+## **Software architect**
 Designs a high-level software architecture
 Selects appropriate tools and platforms to implement the product vision
 Sets up code quality standards and performs code reviews
-**Software developer**
+## **Software developer**
 Engineers and stabilizes the product
 Solves any technical problems emerging during the development lifecycle
-**Quality assurance (QA) engineer**
+## **Quality assurance (QA) engineer**
 Makes sure an application performs according to requirements
 Spots functional and non-functional defects
-**Test automation engineer**
+## **Test automation engineer**
 Designs a test automation ecosystem
 Writes and maintains test scripts for automated testing
-**DevOps engineer**
+## **DevOps engineer**
 Facilitates cooperation between development and operations teams
 Builds continuous integration and continuous delivery (CI/CD) pipelines for faster delivery
+# Technology Stack
