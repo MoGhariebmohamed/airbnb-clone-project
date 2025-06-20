@@ -12,40 +12,13 @@ Gain proficiency in designing and managing CI/CD pipelines for efficient deploym
 Strengthen their ability to document and plan complex software projects effectively.
 Develop an understanding of integrating technologies like Django, MySQL, and GraphQL in a unified ecosystem.
 ## Application targets
-### User Management
-Implement a secure system for user registration, authentication, and profile management.
-### Property Management
-Develop features for property listing creation, updates, and retrieval.
-### Booking System
-Create a booking mechanism for users to reserve properties and manage booking details.
-### Payment Processing
-Integrate a payment system to handle transactions and record payment details.
-### Review System
-Allow users to leave reviews and ratings for properties.
-### Data Optimization
-Ensure efficient data retrieval and storage through database optimizations.
-
-**Key Highlights**
-Hands-on GitHub Repository Management:
-Learn to initialize and structure a project repository, adhering to industry best practices.
-
-**Team Role Documentation:**
-Understand and articulate the responsibilities of various team members, fostering collaboration in real-world scenarios.
-
-## Technology Stack Breakdown:
-Explore the technologies used in a scalable project and their specific contributions to achieving project goals.
-
-## Database Design Proficiency:
-Plan and document a relational database structure with entities, attributes, and relationships that mirror real-world requirements.
-
-## Feature-Driven Development:
-Identify and describe core features of the application, focusing on their relevance to the user experience and business logic.
-
-## API Security Fundamentals:
-Implement and document key security measures to safeguard application data and ensure secure transactions.
-
-## CI/CD Pipeline Integration:
-Gain insights into setting up automated development pipelines, boosting efficiency and minimizing errors during the deployment phase.
+ **User Management:** Implement a secure system for user registration, authentication, and profile management.
+**Property Management:** Develop features for property listing creation, updates, and retrieval.
+**Booking System:** Create a booking mechanism for users to reserve properties and manage booking details.
+**Payment Processing:** Integrate a payment system to handle transactions and record payment details.
+**Review System:** Allow users to leave reviews and ratings for properties.
+**Data Optimization:** Ensure efficient data retrieval and storage through database optimizations.
+**Team Role Documentation:** Understand and articulate the responsibilities of various team members, fostering collaboration in real-world scenarios.
 
 # Team Roles
 ## **Business analyst (BA)**
@@ -115,9 +88,14 @@ user create reviewm\, updated reviews
 ## 3. Booking System
 **Features:** Make, update, and manage bookings, including check-in and check-out details.
 ## 4. Payment Processing
-**Features: ** Handle payment transactions related to bookings.
+**Features:** Handle payment transactions related to bookings.
 ## 5. Review System
-**Features: ** Post and manage reviews for properties.
+**Features:** Post and manage reviews for properties.
 ## 6. Database Optimizations
 **Indexing:** Implement indexes for fast retrieval of frequently accessed data.
 **Caching:** Use caching strategies to reduce database load and improve performance.
+
+# API Security
+**authentication:** protecting user data Ensures that only legitimate users can access the application by verifying their identity—usually through login credentials or tokens
+**authorization:** Controls what actions authenticated users can perform, like differentiating between guests, hosts, and admins.
+**rate limiting:** Limits the number of requests a user or IP can make within a certain timeframe to prevent abuse
