@@ -70,6 +70,7 @@ Writes and maintains test scripts for automated testing
 ## **DevOps engineer**
 Facilitates cooperation between development and operations teams
 Builds continuous integration and continuous delivery (CI/CD) pipelines for faster delivery
+
 # Technology Stack
 ## Django: A high-level Python web framework used for building the RESTful API.
 ## Django REST Framework: Provides tools for creating and managing RESTful APIs.
@@ -79,3 +80,15 @@ Builds continuous integration and continuous delivery (CI/CD) pipelines for fast
 ## Redis: Used for caching and session management.
 ## Docker: Containerization tool for consistent development and deployment environments.
 ## CI/CD Pipelines: Automated pipelines for testing and deploying code changes.
+
+# Database Design
+## 1.  User
+a user can have multiple properties, a booking belongs to a property, user reviews, add payments
+## 2. Property Management
+user add property, have rates and reviews for property.
+## 3. Booking System
+user journy to book property, select property, select dates, make confirmation, make payment, confirm payment
+## 4. Payment Processing
+ make confirmation, make payment, confirm payment
+## 5. Review System
+user create reviewm\, updated reviews
